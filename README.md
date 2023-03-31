@@ -1,17 +1,12 @@
-# My PortFolio Backend 💙
+# My Web Backend 💙
 
-Backend de mi PortFolio personal con conexión a base de datos MySQL. Desarrollado en `Java 17` con `Springboot` Maven
+Backend API de mi web personal con conexión a base de datos MySQL. Desarrollado en `Java 17` con `Springboot` Maven
 
 Funciona en conjunto con el proyecto web Angular ➡️ https://github.com/GaspyGJ/Portfolio_Frontend_GJ
 
-Este proyecto API utiliza peticiones `GET` y `PUT` para guardar y obtener diferentes entidades
 
-## 🔎 Como funciona?
+## 🔎 Funcionalidades
 
-En application.properties, colocar sus datos en los atributos marcados con "XXXXX"
+- Este proyecto se utiliza para realizar peticiones a la base de datos mediante APIs  `GET` , `PUT` o `DELETE` de las distintas entidades de la aplicacion.
 
-Utiliza los path de los controladores para acceder a las diferentes funciones
-
-## 💎 Cosas para mejorar
-
-* Retornar más información útil en las respuestas a las peticiones.
+- Implementa la sección de seguridad mediante JWT para el inicio de sesión.
