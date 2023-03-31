@@ -2,7 +2,7 @@
 
 Backend API de mi web personal con conexión a base de datos MySQL. Desarrollado en `Java 17` con `Springboot` Maven
 
-Funciona en conjunto con el proyecto web Angular ➡️ https://github.com/GaspyGJ/Portfolio_Frontend_GJ
+Funciona en conjunto con el proyecto web Angular ➡️ https://github.com/GaspyGJ/Mi_Web_Frontend
 
 
 ## 🔎 Funcionalidades
