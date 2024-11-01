@@ -1,3 +1,3 @@
 # Mi Web Backend 💙
 
-API
+API Java (DEPRECATED)
